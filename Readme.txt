@@ -1,2 +1,6 @@
-The .scss (Sass) files are only available in the pro version.
-You can buy it from: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
+Thanks for downloading this template!
+
+Template Name: Dewi
+Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
